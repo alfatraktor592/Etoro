@@ -206,4 +206,4 @@ This repository serves as the official landing page for eToro. The software is d
 **Get the most recent version of eToro today!**
 
 ---
-**Last updated:** 2026-11-13 16:02:33 UTC
+**Last updated:** 2026-11-13 22:26:49 UTC
